@@ -1,0 +1,13 @@
+# kathaṃkathi
+
+``` toml
+dict_label = "NCPED"
+word = "kathaṃkathi"
+summary = "questioning, uncertain; full of doubt"
+grammar_comment = "mfn."
+see_also = ["kathaṃ"]
+also_written_as = ["kathaṃkathin"]
+```
+
+questioning, uncertain; full of doubt
+

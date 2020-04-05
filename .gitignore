@@ -1,0 +1,5 @@
+*.swp
+.#*
+TAGS
+.DS_Store
+**/auto/

@@ -1,0 +1,19 @@
+# sampadā
+
+``` toml
+dict_label = "PTS"
+word = "sampadā"
+summary = "attainment, success accomplishment; happiness, goo"
+grammar_comment = "feminine"
+see_also = ["vijjā", "sampadā", "sīla", "sīla", "citta", "diṭṭhi"]
+```
+
+1. attainment, success accomplishment; happiness, good fortune; blessing bliss AN.i.38; Pv.ii.9#47 (= sampatti Pv\-a.132)  
+   ■ Sampadā in its pregnant meaning is applied to the accomplishments of the individual in the course of his religious development. Thus it is used with *sīla, citta, & paññā* at DN.i.171 sq. and many other passages in an almost encyclopedic sense. Here with *sīla˚*; the whole of the sīlakkhandha (DN.i.63 sq.) is understood; *citta˚*; means the cultivation of the heart & attainments of the mind relating to composure, concentration and religious meditation, otherwise called samādhikkhandha. It includes those stages of meditation which are enumerated under samādhi. With *paññā˚*; are meant the attainments of higher wisdom and spiritual emancipation connected with supernormal faculties, culminating in Arahantship and extinction of all causes of rebirth otherwise called *[vijjā](vijjā.md)* (see the 8 items of this under vijjā b.). The same ground as by this 3 fold division is covered by the enumeration of 5 sampadās as *sīla˚ samādhi˚, paññā˚, vimutti˚, vimutti\-ñāṇadassana˚*; MN.i.145; Pp.54; cp. SN.i.139; AN.iii.12.  
+   ■ The term *[sampadā](sampadā.md)* is not restricted to a definite *set* of accomplishments. It is applied to various such sets besides the one mentioned above. Thus we find a set of 3 sampadās called *sīla˚, citta˚ & diṭṭhi˚;* at AN.i.269, where under *[sīla](sīla.md)* the Nos. 1–⁠7 of the 10 sīlas are understood (see *[sīla](sīla.md)* 2 a), under *[citta](citta.md)* Nos. 8 & 9, under; *[diṭṭhi](diṭṭhi.md)* No. 10. *sīla & diṭṭhi˚;* also at DN.iii.213  
+   ■ A set of 8 sampadās is given at AN.iv.322 with uṭṭhāna˚, ārakkha˚, kalyāṇamittatā sammājīvitā, saddhā˚, sīla˚, cāga˚, paññā˚; of which the first 4 are explained in detail at AN.iv.281 = AN.iv.322 as bringing wordly happiness, viz. alertness, wariness, association with good friends, right livelihood; and the last 4 as leading to future bliss (viz. faith in the Buddha, keeping the 5 sīlas, liberality, higher wisdom) at AN.iv.284 = AN.iv.324 Another set of 5 frequently mentioned is: *ñāti˚, bhoga˚ ārogya˚, sīla˚, diṭṭhi˚*; (or the blessings, i.e. good fortune of having relatives, possessions, health, good conduct right views) representing the “summa bona” of popular choice, to which is opposed deficiency (vyasana, reverse of the same items. Thus e.g. at AN.iii.147; DN.iii.235. *Three* sampadās: *kammanta˚, ājīva˚, diṭṭhi,˚*; i.e. the 7 sīlas, right living (sammā\-ājīva), right views AN.i.271\-Another *three* as *saddhā˚, sīla˚, paññā˚*; at AN.i.287. Bdhgh at Dhp\-a.iii.93, Dhp\-a.iii.94 speaks of *four* sampadās, viz *vatthu˚, paccaya˚, cetanā˚*; guṇâtireka˚; of the blessings of a foundation (for merit), ofmeans (for salvation), of good intentions, of virtue (& merit). \-A (later) set of; *seven* sampadās is given at Ja.iv.96 with āgama˚, adhigama˚ pubbahetu˚, attattha\-paripucchā˚, titthavāsa˚ yoniso\-manasikāra˚, buddh’ûpanissaya˚  
+   ■ Cp. the following: *atta˚*; SN.v.30 sq.; *ākappa˚*; AN.i.38; *ājīva˚* AN.i.271; DN\-a.i.235; *kamma˚*; AN.iv.238 sq.; *dassana˚* Snp.231; *nibbāna˚*; Vism.58; *bhoga˚*; (\+ parivāra˚) Dhp\-a.i.78; *yāga˚*; Thag\-a.40 (Tha\-ap.7); *vijjācaraṇa˚*; DN.i.99.
+2. execution, performance; result, consequence; thus *yañña˚*; successful performance of a sacrifice DN.i.128; Snp.505, Snp.509; *piṭaka\-sampadāya* “on the authority of the Piṭaka tradition,” according to the P.; in exegesis of *iti\-kira* (hearsay) AN.i.189 = AN.ii.191 = Cnd.151; and of *itihītiha* MN.i.520 = MN.ii.169.
+
+fr. saṃ \+ *pad*, cp. BSk. sampadā Divy.401 (devamanuṣya˚), also sampatti
+

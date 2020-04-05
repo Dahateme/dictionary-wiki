@@ -1,0 +1,11 @@
+# gāḷhūpalepanena
+
+``` toml
+dict_label = "NCPED"
+word = "gāḷhūpalepanena"
+summary = "smeared with a thick ointment; thickly smeared."
+grammar_comment = "mfn."
+```
+
+smeared with a thick ointment; thickly smeared.
+
