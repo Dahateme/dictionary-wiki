@@ -10,6 +10,18 @@ provides editing features for this dictionary.
 Download the files, install the extension in VS Code, then use the 'File > Open
 Folder' menu.
 
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
+**Table of Contents**
+
+- [Simsapa Pali Word Dictionary Wiki](#simsapa-pali-word-dictionary-wiki)
+    - [Download](#download)
+    - [File Format Conventions](#file-format-conventions)
+        - [Glossing texts or chants](#glossing-texts-or-chants)
+        - [Dictionary entries](#dictionary-entries)
+    - [Sources](#sources)
+
+<!-- markdown-toc end -->
+
 ## Download
 
 Download these files as a ZIP Archive either with the link below.
@@ -26,10 +38,19 @@ git clone https://github.com/simsapa/dictionary-wiki.git
 
 ### Glossing texts or chants
 
-See for example [yo so bhagavā.md](yo%20so%20bhagavā.md).
+See for example [chants/yo so bhagavā.md](chants/yo%20so%20bhagavā.md).
 
-The Markdown text file is assumed to be in the root folder of this repository,
-so that word links such as `w/kamma.md` will work.
+Glossed texts or chants are expected to be in a subfolder of the project root,
+so that word links such as `../w/kamma.md` will work.
+
+```
+chants/
+  yo so bhagavā.md
+suttas/
+  sn-56-11.md
+w/
+README.md
+```
 
 Separate single lines with blank lines. End with a backslash `\` to indicate a
 forced-linebreak, such as in chanting lines.
@@ -84,10 +105,10 @@ sub-items, or conjugation may be explained.
 
 ``` markdown
 - sammāsambuddho: the Rightly Self-Awakened One, compound
-  - [sammā](w/sammā.md): properly, rightly
+  - [sammā](../w/sammā.md): properly, rightly
   - sambuddho: completely awakened
     - saṃ-: completeness of action
-    - buddho: one who has understood, p.p. of [bujjhati](w/bujjhati.md)
+    - buddho: one who has understood, p.p. of [bujjhati](../w/bujjhati.md)
 ```
 
 ### Dictionary entries
@@ -97,7 +118,7 @@ See for example [upagacchati](w/upagacchati.md).
 Word entries are in the `w/` folder. The file name corresponds to the dictionary
 word or phrase. Diacritics, hyphens and spaces are allowed in the file names.
 When writing Markdown links, the spaces have to be encoded as `%20`, such as
-`[api ca](w/api%20ca.md)`. (The
+`[api ca](api%20ca.md)`. (The
 [simsapa-vscode](https://github.com/simsapa/simsapa-vscode) extension handles
 that.)
 
